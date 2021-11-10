@@ -52,7 +52,7 @@
 
 > 🏆 10 Contributions in the Year 2021
  > 
-> 📦 30 Bytes Used in GitHub's Storage 
+> 📦 32 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,20 +89,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     7 mins              ████████████████░░░░░░░░░   64.58% 
-CSS                      3 mins              ████████░░░░░░░░░░░░░░░░░   34.98% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44% 
-JSX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-grid-trybe               11 mins             ████████████████████████░   99.47% 
-sd-013-a-project-recipes-0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -119,6 +115,6 @@ HTML                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/lcds07/lcds07/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2021
+ Last Updated on 10/11/2021
 <!--END_SECTION:waka-->
 
