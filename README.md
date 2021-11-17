@@ -46,13 +46,13 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 10 Contributions in the Year 2021
  > 
-> 📦 46 Bytes Used in GitHub's Storage 
+> 📦 48 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -115,6 +115,6 @@ HTML                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/lcds07/lcds07/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/11/2021
+ Last Updated on 17/11/2021
 <!--END_SECTION:waka-->
 
