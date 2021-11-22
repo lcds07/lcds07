@@ -52,7 +52,7 @@
 
 > 🏆 10 Contributions in the Year 2021
  > 
-> 📦 57 Bytes Used in GitHub's Storage 
+> 📦 59 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -115,6 +115,6 @@ HTML                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/lcds07/lcds07/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/11/2021
+ Last Updated on 22/11/2021
 <!--END_SECTION:waka-->
 
