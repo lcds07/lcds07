@@ -50,9 +50,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 10 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
-> 📦 128 Bytes Used in GitHub's Storage 
+> 📦 130 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -115,6 +115,6 @@ HTML                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/lcds07/lcds07/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 
