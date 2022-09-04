@@ -46,7 +46,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,7 +54,7 @@
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 159 Bytes Used in GitHub's Storage 
+> 📦 161 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,48 +62,6 @@
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    3 commits      ████████████░░░░░░░░░░░░░   50.0% 
-🌃 Evening    3 commits      ████████████░░░░░░░░░░░░░   50.0% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      4 commits      ████████████████░░░░░░░░░   66.67% 
-Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Thursday     2 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -117,6 +75,6 @@ HTML                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/lcds07/lcds07/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:43:52 UTC
+ Last Updated on 04/09/2022 18:43:22 UTC
 <!--END_SECTION:waka-->
 
